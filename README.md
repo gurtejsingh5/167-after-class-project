@@ -1,1 +1,1 @@
-# 167-after-class-project
+# PRO-C167-Project-Solution
